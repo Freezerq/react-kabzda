@@ -1,0 +1,11 @@
+.select span.main {
+    border: 1px solid;
+}
+
+.select .items {
+    padding: 5px;
+}
+
+.select .items .hover {
+    color: #ff0b37;
+}
